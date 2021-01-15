@@ -1,0 +1,60 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+6,Puerto Ayora,EC,72.0,light rain,-0.7393,-90.3518,Castillo Galapagos
+11,Huarmey,PE,70.32,overcast clouds,-10.0681,-78.1522,Hotel Miramar
+31,Port Elizabeth,ZA,73.4,broken clouds,-33.918,25.5701,39 On Nile Guest House
+41,Kapaa,US,73.4,few clouds,22.0752,-159.319,Sheraton Kauai Resort at Coconut Beach
+48,Sao Filipe,CV,73.09,overcast clouds,14.8961,-24.4956,Tortuga B&B
+62,Mataura,NZ,71.1,scattered clouds,-46.1927,168.8643,Ellie's Villa
+67,Simplicio Mendes,BR,72.23,overcast clouds,-7.8539,-41.9103,Fidalgo
+71,Ciudad Bolivar,VE,73.85,overcast clouds,8.1222,-63.5497,Hotel Edi
+80,Hilo,US,73.4,clear sky,19.7297,-155.09,Hilo Hawaiian Hotel
+82,Araure,VE,72.84,overcast clouds,9.5601,-69.2148,Hotel Las Majaguas
+92,Tura,IN,73.2,overcast clouds,25.5198,90.2201,Hotel RIKMAN Continental
+94,Borborema,BR,70.27,broken clouds,-21.6197,-49.0736,Reday Hotel
+96,Bredasdorp,ZA,71.6,clear sky,-34.5322,20.0403,Bredasdorp Country Manor
+99,Cape Town,ZA,71.01,light rain,-33.9258,18.4232,"Radisson Blu Hotel Waterfront, Cape Town"
+100,Santa Isabel Do Rio Negro,BR,72.3,overcast clouds,-0.4139,-65.0192,Hotel GSA
+101,Rock Sound,BS,74.16,overcast clouds,24.9,-76.2,Rock Sound Club
+102,Hermanus,ZA,73.0,few clouds,-34.4187,19.2345,Misty Waves Boutique Hotel
+107,Nyimba,ZM,74.3,light rain,-14.5566,30.8149,Dali Dali Lodge
+109,Namibe,AO,73.51,clear sky,-15.1961,12.1522,Hotel Chik Chik Namibe
+119,Coahuayana,MX,72.43,overcast clouds,18.7333,-103.6833,Hotel Los Arcos
+129,Lafiagi,NG,72.28,broken clouds,8.8667,5.4167,Bus group international
+155,Paita,PE,71.78,light rain,-5.0892,-81.1144,Hotel Náutico de Paita
+198,Senanga,ZM,72.45,light rain,-16.1167,23.2667,Christopher Nasilele House
+202,Esperantina,BR,71.92,overcast clouds,-3.9017,-42.2336,Pousada Recanto Das Aguas
+203,Esperance,AU,73.4,scattered clouds,-33.8667,121.9,Hospitality Esperance
+217,Linhares,BR,71.06,clear sky,-19.3911,-40.0722,Hotel Conceição
+225,Arraial Do Cabo,BR,74.88,clear sky,-22.9661,-42.0278,Pousada Porto Praia
+251,Itoman,JP,71.6,few clouds,26.1247,127.6694,Southern Beach Hotel & Resort Okinawa
+261,Alta Floresta,BR,70.05,overcast clouds,-9.8756,-56.0861,Floresta Amazonica Hotel
+264,Cordoba,AR,73.99,light rain,-31.4135,-64.1811,Sheraton Cordoba Hotel
+273,Plettenberg Bay,ZA,73.13,light rain,-34.0527,23.3716,Thanda Vista B&B
+289,Trinidad,BO,72.88,light rain,-14.8333,-64.9,Hotel Piesta
+303,Cidreira,BR,72.97,broken clouds,-30.1811,-50.2056,Hotel Castelo
+304,Nizwa,OM,74.25,clear sky,22.9333,57.5333,Orient Apartments
+308,Vila Velha,BR,73.4,broken clouds,-20.3297,-40.2925,Hotel Vitória Palace
+321,Santa Ines,BR,71.87,overcast clouds,-3.6667,-45.38,HOTEL TOP
+324,Liwale,TZ,74.44,overcast clouds,-9.7667,37.9333,Samoma Lodge
+342,Sao Miguel Do Araguaia,BR,72.03,moderate rain,-13.275,-50.1628,Hotel Executivo Palace
+367,Sao Gabriel Da Cachoeira,BR,71.28,scattered clouds,-0.1303,-67.0892,Alarne - Área De Lazer Do Alto Rio Negro
+372,Conceicao Da Barra,BR,73.72,clear sky,-18.5933,-39.7322,Cricaré Praia Hotel
+381,Cooma,AU,71.6,scattered clouds,-36.2333,149.1333,High Country Motel
+408,Dera Ghazi Khan,PK,71.91,clear sky,30.0561,70.6348,Hamlani Khosa Chowk
+430,Petatlan,MX,72.36,scattered clouds,17.5167,-101.2667,Hotel California Petatlán
+432,Phuthaditjhaba,ZA,70.86,overcast clouds,-28.5242,28.8158,Lefika Lodge
+502,Placido De Castro,BR,72.5,overcast clouds,-10.3353,-67.1856,Hotel Carioca
+531,Ocara,BR,73.2,overcast clouds,-4.4908,-38.5967,Pousada familiar
+546,Dharchula,IN,70.48,overcast clouds,29.85,80.5333,Mahara Hotel
+547,Pucallpa,PE,72.03,moderate rain,-8.3791,-74.5539,Hotel Sol de Oriente - Pucallpa
+556,Mapiripan,CO,71.82,overcast clouds,2.8892,-72.1256,Monserrate
+574,Caravelas,BR,73.31,clear sky,-17.7125,-39.2481,Pousada dos Navegantes
+582,Cullinan,ZA,73.4,scattered clouds,-25.6709,28.5236,Cheval Tachete
+584,Coro,VE,74.3,overcast clouds,11.4045,-69.6734,Federal
+590,Diamantino,BR,73.35,light rain,-14.4086,-56.4461,Hotel Delta
+615,Puerto Suarez,BO,74.21,heavy intensity rain,-18.95,-57.8,Hotel casa real
+643,Braganca,BR,73.15,overcast clouds,-1.0536,-46.7656,Marujo's Suíte Hotel
+645,Canavieiras,BR,73.15,moderate rain,-15.675,-38.9472,Bahiadomizil
+650,Novo Aripuana,BR,72.37,overcast clouds,-5.1206,-60.3797,Hotel Ezequiel
+659,Sao Felix Do Xingu,BR,70.86,overcast clouds,-6.6447,-51.995,Rio Xingu Camping
+671,Kikwit,CD,73.47,light rain,-5.041,18.8162,Guest L'Amour
